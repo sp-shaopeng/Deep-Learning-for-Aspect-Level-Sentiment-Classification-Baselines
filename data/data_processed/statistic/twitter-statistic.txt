@@ -1,0 +1,24 @@
+train sample numbers: 6248
+train average target number/sample: 1.0
+train total target number: 113
+train average target length: 1.79646017699
+train average sample length: 18.8077784891
+train negative,neutral,positive number: 1560,3127,1561; rate: 0.249679897567,0.500480153649,0.249839948784
+train top 10 aspects: britney spears:924;lindsay lohan:400;harry potter:324;madonna:233;barack obama:222;wii:195;sarah palin:191;lady gaga:181;ipod:180;windows 7:171;
+----------------------------------------
+test sample numbers: 692
+test average target number/sample: 1.0
+test total target number: 82
+test average target length: 1.80487804878
+test average sample length: 18.8670520231
+test negative,neutral,positive number: 173,346,173; rate: 0.25,0.5,0.25
+test top 10 aspects: britney spears:96;lindsay lohan:44;harry potter:36;ipod:25;lady gaga:24;windows 7:24;barack obama:23;psp:20;wii:19;madonna:19;
+----------------------------------------
+train+test sample numbers: 6940
+train+test average target number/sample: 1.0
+train+test total target number: 118
+train+test average target length: 1.78813559322
+train+test average sample length: 18.8136887608
+train+test negative,neutral,positive number: 1733,3473,1734; rate: 0.249711815562,0.500432276657,0.249855907781
+train+test top 10 aspects: britney spears:1020;lindsay lohan:444;harry potter:360;madonna:252;barack obama:245;wii:214;sarah palin:210;ipod:205;lady gaga:205;windows 7:195;
+----------------------------------------

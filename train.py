@@ -137,7 +137,7 @@ class BaseExperiment:
         loss.backward()
         clip_gradient(self.mdl.parameters(), 1.0)
         self.optimizer.step()
-        return loss.data[0]
+        return loss.data
 
     def evaluation(self, x):
         inputs = [x[col].to(device) for col in self.args.inputs_cols]
@@ -192,12 +192,12 @@ class BaseExperiment:
         for epoch in range(self.args.num_epoch):
             losses = []
             self.mdl.train()
-            t0 = time.clock()
+            t0 = time.perf_counter()
             for i_batch, sample_batched in enumerate(self.train_data_loader):
                 global_step += 1
                 loss = self.train_batch(sample_batched)
                 losses.append(loss)
-            t1 = time.clock()
+            t1 = time.perf_counter()
             self.mdl.eval()
             if self.args.dev > 0.0:
                 outputs, targets = None, None

@@ -1,0 +1,36 @@
+train sample numbers: 2021
+train average target number/sample: 1.68283028204
+train total target number: 2
+train average target length: 1.0
+train average sample length: 15.8782780802
+train negative,positive number: 921,2480; rate: 0.270802705087,0.729197294913
+train top 10 aspects: location1:2805;location2:596;
+train category: general:1182;price:500;transit-location:431;safety:352;live:221;nightlife:158;shopping:143;multicultural:123;green-nature:95;dining:93;quiet:54;touristy:49;
+----------------------------------------
+dev sample numbers: 505
+dev average target number/sample: 1.66336633663
+dev total target number: 2
+dev average target length: 1.0
+dev average sample length: 16.1683168317
+dev negative,positive number: 224,616; rate: 0.266666666667,0.733333333333
+dev top 10 aspects: location1:694;location2:146;
+dev category: general:291;price:119;transit-location:116;safety:86;live:53;green-nature:32;shopping:31;nightlife:30;dining:29;multicultural:24;quiet:18;touristy:11;
+----------------------------------------
+test sample numbers: 1003
+test average target number/sample: 1.6739780658
+test total target number: 2
+test average target length: 1.0
+test average sample length: 16.2711864407
+test negative,positive number: 462,1217; rate: 0.275163787969,0.724836212031
+test top 10 aspects: location1:1366;location2:313;
+test category: general:588;price:251;transit-location:221;safety:158;live:105;shopping:78;nightlife:77;multicultural:51;green-nature:47;dining:37;quiet:36;touristy:30;
+----------------------------------------
+train+dev+test sample numbers: 3529
+train+dev+test average target number/sample: 1.67752904506
+train+dev+test total target number: 2
+train+dev+test average target length: 1.0
+train+dev+test average sample length: 16.0314536696
+train+dev+test negative,positive number: 1607,4313; rate: 0.271452702703,0.728547297297
+train+dev+test top 10 aspects: location1:4865;location2:1055;
+train+dev+test category: general:2061;price:870;transit-location:768;safety:596;live:379;nightlife:265;shopping:252;multicultural:198;green-nature:174;dining:159;quiet:108;touristy:90;
+----------------------------------------

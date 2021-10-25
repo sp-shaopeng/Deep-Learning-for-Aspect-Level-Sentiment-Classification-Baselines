@@ -1,0 +1,27 @@
+train sample numbers: 1708
+train average target number/sample: 1.46779859485
+train total target number: 671
+train average target length: 2.05961251863
+train average sample length: 13.5409836066
+train negative,neutral,positive number: 749,101,1657; rate: 0.298763462306,0.0402871958516,0.660949341843
+train top 10 aspects: null:627;food:233;service:148;place:129;restaurant:49;staff:40;pizza:31;atmosphere:28;sushi:26;decor:23;
+train category: FOOD#QUALITY:849;SERVICE#GENERAL:449;RESTAURANT#GENERAL:422;AMBIENCE#GENERAL:255;FOOD#STYLE_OPTIONS:137;RESTAURANT#MISCELLANEOUS:98;FOOD#PRICES:90;RESTAURANT#PRICES:80;DRINKS#QUALITY:47;DRINKS#STYLE_OPTIONS:32;LOCATION#GENERAL:28;DRINKS#PRICES:20;
+----------------------------------------
+test sample numbers: 587
+test average target number/sample: 1.46337308348
+test total target number: 289
+test average target length: 1.85813148789
+test average sample length: 13.4906303237
+test negative,neutral,positive number: 204,44,611; rate: 0.237485448196,0.0512223515716,0.711292200233
+test top 10 aspects: null:209;food:69;service:44;place:32;sushi:21;restaurant:15;atmosphere:11;pizza:11;menu:10;staff:9;
+test category: FOOD#QUALITY:313;SERVICE#GENERAL:155;RESTAURANT#GENERAL:142;AMBIENCE#GENERAL:66;FOOD#STYLE_OPTIONS:55;RESTAURANT#MISCELLANEOUS:33;FOOD#PRICES:23;DRINKS#QUALITY:22;RESTAURANT#PRICES:21;LOCATION#GENERAL:13;DRINKS#STYLE_OPTIONS:12;DRINKS#PRICES:4;
+----------------------------------------
+train+test sample numbers: 2295
+train+test average target number/sample: 1.46666666667
+train+test total target number: 869
+train+test average target length: 2.08515535098
+train+test average sample length: 13.5281045752
+train+test negative,neutral,positive number: 953,145,2268; rate: 0.283125371361,0.0430778371955,0.673796791444
+train+test top 10 aspects: null:836;food:302;service:192;place:161;restaurant:64;staff:49;sushi:47;pizza:42;atmosphere:39;decor:29;
+train+test category: FOOD#QUALITY:1162;SERVICE#GENERAL:604;RESTAURANT#GENERAL:564;AMBIENCE#GENERAL:321;FOOD#STYLE_OPTIONS:192;RESTAURANT#MISCELLANEOUS:131;FOOD#PRICES:113;RESTAURANT#PRICES:101;DRINKS#QUALITY:69;DRINKS#STYLE_OPTIONS:44;LOCATION#GENERAL:41;DRINKS#PRICES:24;
+----------------------------------------

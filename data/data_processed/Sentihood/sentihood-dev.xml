@@ -1,0 +1,4377 @@
+<sentences>
+	<sentence id="302">
+		<text> LOCATION1 is just a normal area that happens to have an alternative market</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="1" to="10"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="662">
+		<text>, LOCATION1 , LOCATION2 are all good places to stay and within 35 minutes by fast train from Central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="2" to="11"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="292">
+		<text>A Brazilian man was shot there 3 years ago in LOCATION1 station by a policeman i think he was a suspected terrorist of the 7/7 bombings on London transport</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="78">
+		<text>A friend of mine lived in LOCATION1 and she liked it, though other people have told me it's a bit rough</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="26" to="35"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="26" to="35"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="105">
+		<text>A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="30" to="39"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="30" to="39"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="30" to="39"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="30" to="39"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="30" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="323">
+		<text>A must see place is LOCATION1 what with the street entertainers good places to eat, a great market and some nice places to drink</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="610">
+		<text>Additionally , the School of Oriental and African Studies ( SOAS ) has a large number of students from Asian backgrounds and countries and their student union regularly holds and hosts events to which they welcome non-SOAS students : The above website also has some links under ` Housing and Accomodation ' for affordable housing options for all students LOCATION1 can be a nice area - near the cemetery is good , but maybe too expensive for you</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="355" to="364"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="31">
+		<text>All have their share of Bars and Night life etc but for this I think LOCATION1 would be my favourite</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="69" to="78"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="112">
+		<text>All in all LOCATION1 one of the better suburbs of London though can be expensive</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="11" to="20"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="419">
+		<text>All told , if money was no object then LOCATION1 is the area of London I would choose to live in</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="39" to="48"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="348">
+		<text>Also police stats show that LOCATION1, which includes most of these areas, scores pretty highly on numbers of reported racist crimes</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="28" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="709">
+		<text>Also there 's LOCATION2 right next to it - also very good for rent rates - check it out LOCATION1 is nice but quiete area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="88" to="97"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="88" to="97"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="679">
+		<text>Also, I would suggest LOCATION1/LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="32" to="41"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="655">
+		<text>Also, the areas of LOCATION2 and LOCATION1 in NW London can be a bit unsafe, but you are unlikely to go to those anyway</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="19" to="28"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="33" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="734">
+		<text>Although i think LOCATION1 is quite expensive, a hot spot for the rich and succesful  LOCATION2,  Highly sought-after area, housing is pricey, large Jewish population</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="86" to="95"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="86" to="95"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="17" to="26"/>
+			<aspectTerm term="LOCATION2" category="multicultural" polarity="positive" from="86" to="95"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="684">
+		<text>Although there are nice sections of LOCATION2 with great amenities, LOCATION1 seems to be the up and coming nicer areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="36" to="45"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="68" to="77"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="117">
+		<text>And i agree the Dublin Castle is one of my favorite pubs in LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="60" to="69"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="234">
+		<text>And you ca n't talk with the police because they are all corrupt London is the most expensive London in the UK and apartments are mostly quite expensive , but if you really want to move here , LOCATION1 is probably the least expensive part of town</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="193" to="202"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="509">
+		<text>Anyway , LOCATION1 is your best bet for secure  although completely soul-less and sterile</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="9" to="18"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="671">
+		<text>Areas such as LOCATION1 or LOCATION2 are far more pleasant</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="27" to="36"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="499">
+		<text>As for LOCATION1, there is  shopping Street and easy access to the London or Westend</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="7" to="16"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="37">
+		<text>As for the other places they've listed then they're all good apart from LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="72" to="81"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="443">
+		<text>As to the getting mugged and killed - just avoid LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="49" to="58"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="49" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="389">
+		<text>Avoid LOCATION1 - it's super pricey</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="6" to="15"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="6" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="408">
+		<text>Avoid LOCATION1 though</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="6" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="289">
+		<text>Basically if your heading for the LOCATION1, buy or rent on the river, there tends to be plenty of police around so the crime rate is reasonably good</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="34" to="43"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="317">
+		<text>Because it is close to London , has good quality housing and good schools , LOCATION1 is an expensive area to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="76" to="85"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="76" to="85"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="669">
+		<text>Best bet is around LOCATION2 and LOCATION1 area in the northwest corner really nice I used to know someone who lived there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="33" to="42"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="382">
+		<text>But basically people live where they can afford  LOCATION1 Rich and Famous</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="49" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="498">
+		<text>But on the upside, some parts of LOCATION1 are really lovely , there are excellent bus services to anywhere you need to go</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="33" to="42"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="33" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="345">
+		<text>But some parts are e g LOCATION1, however once again, very expensive and lots of snobbery going on there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="274">
+		<text>But to the north and east, LOCATION1 is surprisingly peaceful and leafy</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="27" to="36"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="27" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="33">
+		<text>But, there are some very famous places LOCATION1  that are so well known that they get a great many tourists</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="190">
+		<text>Cheers  Check out LOCATION1 in LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="648">
+		<text>Choose LOCATION2 or LOCATION1 if you want to hang out with toffs or famous people</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="461">
+		<text>Communication wise it's the best cause in the LOCATION1 tube station there r two main lines</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="540">
+		<text>Consider trendy LOCATION1 (W11) in west London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="220">
+		<text>Considering that it is part of a major London LOCATION1 is pretty low on the crime scale, but it is quite expensive</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="46" to="55"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="495">
+		<text>Do n't worry , LOCATION1 is not that bad</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="604">
+		<text>Fabric: A massive club in LOCATION1, playing house, techno and electro on a Saturday</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="592">
+		<text>Find a place in LOCATION1 - right now the price of houses is depressed</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="462">
+		<text>Finnaly , LOCATION1 is n't too bad , particularly around the Furzedown area - although again , prices are starting to creep up</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="455">
+		<text>First of all , yes LOCATION1 is extremely rough</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="153">
+		<text>For a poor area think no further than LOCATION1 -</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="38" to="47"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="127">
+		<text>For evening entertainment besides bars, I reccommend (if you have time) a concert in LOCATION1 or the Comedy Store</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="85" to="94"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="195">
+		<text>For great cocktails go to St Germain just outside LOCATION1 tube they have happy hour so 2 for 7 and are some of hte nicest in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="50" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="240">
+		<text>For that money you can live around LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="35" to="44"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="549">
+		<text>Frequent trains from LOCATION1 Station to LOCATION2 in central London take 18 minutes</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="21" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="646">
+		<text>From LOCATION2 you get easy access by bus to LOCATION1 for Tube (District Line)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="5" to="14"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="45" to="54"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="686">
+		<text>Further away there is LOCATION2 and LOCATION1, both a bit cheaper</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="36" to="45"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="36" to="45"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="negative" from="22" to="31"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="553">
+		<text>Get on the tube again (or bus) and continue East  Keep going until LOCATION1  That will be the cheapest "convenient" areas of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="67" to="76"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="63">
+		<text>Good luck and god bless LOCATION1 is in my opinion is alot nicer than LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="24" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="470">
+		<text>Guy 's Hospital I think LOCATION1 ( N7 ) is getting expensive for very solid reasons</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="24" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="41">
+		<text>Having said that though LOCATION1 is still a safe area there are always lots of Police around and I have never once felt unsafe in the area even alone at 1 o'clock in the morning</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="24" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="304">
+		<text>Head for LOCATION1, there is a market there but there are also loads of clothes and shoe shops, everything from Ted Baker, LK Bennett and Reiss to Oasis and Monsoon</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="54">
+		<text>Here LOCATION1 would be best as that is on the direct line to Rochester</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="5" to="14"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="5" to="14"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="336">
+		<text>Hope that helps  LOCATION1 is a nice place to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="17" to="26"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="735">
+		<text>However LOCATION2 and LOCATION1 are more affordable , plus you feel like you 're out of the London so they 're a bit more relaxed</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="8" to="17"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="22" to="31"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="22" to="31"/>
+			<aspectTerm term="LOCATION2" category="quiet" polarity="positive" from="8" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="271">
+		<text>However, I don't like LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="640">
+		<text>However, the outer suburbs of SE London (LOCATION1 and LOCATION2) are quite pleasant  It will be absolutely fine</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="55" to="64"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="41" to="50"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="487">
+		<text>However, you can also consider LOCATION1, where youd find various detached villas with large gardens</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="31" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="314">
+		<text>I 've heard a lot of people saying that LOCATION1 is dangerous , is that true</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="222">
+		<text>I also know a couple of people who are moving to LOCATION1  and they rate it highly</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="49" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="642">
+		<text>I also know lots of people in areas like LOCATION2 and LOCATION1 who never once felt unsafe when they lived there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="41" to="50"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="55" to="64"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="670">
+		<text>I also like LOCATION2 and LOCATION1 , it 's very vibrant</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="26" to="35"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="533">
+		<text>I always go shopping and to the cinema in LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="42" to="51"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="95">
+		<text>I always wanted to live around LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="31" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="700">
+		<text>I am afraid no part of London in particular is not a safe place to live , especially for a 20 year old woman , but in comparison , South London , and LOCATION2 have higher crime rates and LOCATION1 has the highest rate of crime and it has been named `` The Murder Capital of Europe</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="188" to="197"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="150" to="159"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="267">
+		<text>I can't really complain about LOCATION1 (bit boring no entertainment)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="negative" from="30" to="39"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="30" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="340">
+		<text>I can't understand the thumbs down for LOCATION1, that area is having lots of money thrown at it right now</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="91">
+		<text>I come from LOCATION1 which is a similarly impoverished London borough in fact, it has a worse reputation than LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="50">
+		<text>I don't know LOCATION2 but LOCATION1 is one of the nicest areas of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="27" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="60">
+		<text>I dunno but theres alot of Mediterranean people in North LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="57" to="66"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="701">
+		<text>I guess I lived in LOCATION1 and it wasnt the best but the public transport in LOCATION2 is the best</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="79" to="88"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="502">
+		<text>I have lived in LOCATION1 for 20+ years and never had a problem day or night</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="285">
+		<text>I have lived in big cities before so will not be shocked by a lot of stuff , just wanted to get a feel for the okayish places LOCATION1 is good , its close enough to the London but far enough to be away from too much of the noise and action if you end up in a coucil estate they are n't actually too bad , it 's quiet family based , if you are able to have the attitude of i shut my front door i shut everyone and everything else out you 'll be fine</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="126" to="135"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="126" to="135"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="543">
+		<text>I have plenty of friends from LA who live in LOCATION1 and love it, but everyone is different of course</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="45" to="54"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="326">
+		<text>I have read that LOCATION1 village is a nice area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="17" to="26"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="527">
+		<text>I heard from a distant school friend that LOCATION1 ( which is presumably near this address ) is 60 % or more Bangladeshi and that it 's not the safest area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="42" to="51"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="42" to="51"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="403">
+		<text>I know I learned then  cheapest area is London borough of LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="58" to="67"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="520">
+		<text>I know a bit about LOCATION1 as I shopped there loads but as an area to live in not sure</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="303">
+		<text>I know a lot of people that live in LOCATION1 and find it easy to get into central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="36" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="650">
+		<text>I like LOCATION2 and LOCATION1 etc</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="21" to="30"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="129">
+		<text>I live LOCATION1, and I love it  Used to live in LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="7" to="16"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="21">
+		<text>I live in LOCATION1 and I have a wonderful street with great neighbours</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="744">
+		<text>I live in LOCATION1 and it's nice and it's cheapish but avoid the rest of LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="74" to="83"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="356">
+		<text>I live in LOCATION1 and it's not ALL 'grotty'</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="62">
+		<text>I live in LOCATION1 and my partner was born here, we want OUT</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="168">
+		<text>I live in LOCATION1 and to be honest there's no pubs or clubs round here</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="negative" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="309">
+		<text>I live in LOCATION1 and work at London Bridge Railway Station   love it</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="623">
+		<text>I live in LOCATION1 area and it is really a great place</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="338">
+		<text>I live in LOCATION1 which is at the end of the Jubilee Line</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="537">
+		<text>I live in LOCATION1, and I really like it</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="167">
+		<text>I live in LOCATION1, which would be characterised by having a lot of greenery (for Zone 2) and seems to attract lots of twenty-something professional types</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="265">
+		<text>I live in a middle class outer London suburb called LOCATION1 in the south of the Greater London area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="52" to="61"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="132">
+		<text>I live near LOCATION1 and I have to say that it's a pretty nice area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="6">
+		<text>I live near the LOCATION1; have never felt unsafe</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="580">
+		<text>I live pretty close to LOCATION1 and it is a good area to live in - good transport, lots of cafes, close to all sorts of amenities</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="23" to="32"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="87">
+		<text>I live right near LOCATION1 and have never had any problems even at night</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="681">
+		<text>I lived in LOCATION1 and LOCATION2 and had no trouble at all</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="11" to="20"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="25" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="103">
+		<text>I lived in LOCATION1 for a couple of years  but found the people to be not too friendly and didn'r feel safe there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="410">
+		<text>I lived in LOCATION1, and I had two bikes stolen</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="739">
+		<text>I lived in London for 6 months and I would reccommend living in LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="77" to="86"/>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="64" to="73"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="449">
+		<text>I lived in SE London (LOCATION1) for 11 years and most of the people there are white</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="negative" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="564">
+		<text>I love LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="412">
+		<text>I meant to say as well I was offered LOCATION1 but was told that this place is really violent</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="37" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="488">
+		<text>I prefer LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="565">
+		<text>I really do not believe that LOCATION1 , although working class , has a higher crime rate than any other East End areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="704">
+		<text>I really like the fact that LOCATION2 is a beautiful place, especially LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="71" to="80"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="28" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="268">
+		<text>I reckon LOCATION1 offers some really great value accommodation and actually I havnt heard anything negative about it</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="9" to="18"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="424">
+		<text>I recommend LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="313">
+		<text>I rent a nice one bedroom flat in SE London near LOCATION1 for 700 per month, downside is that it's not near the tube</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="49" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="152">
+		<text>I say LOCATION1 as their is a large community of expats from Australia , New Zealand and South Africa there making for an interesting and varied range of people along with the local English people</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="6" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="0">
+		<text>I stayed in LOCATION1  and loved the area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="713">
+		<text>I suggest looking for areas a bit further out in LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="62" to="71"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="49" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="690">
+		<text>I suggest the LOCATION1 area, especially around LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="48" to="57"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="398">
+		<text>I think LOCATION1 ( N7 ) is getting expensive for very solid reasons</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="8" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="535">
+		<text>I think you should not hesitate about all this stuff and go ahead with it I worked extensively around London and I would agree that LOCATION1 would not be my first choice to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="132" to="141"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="9">
+		<text>I used to live in LOCATION1 (Nth London and before it changed its name) - it's now a slum</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="463">
+		<text>I used to live in LOCATION1,  which is near LOCATION2 and it wasn't too bad really</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="572">
+		<text>I used to work in LOCATION1 and it was OK  it's fairly diverse as there are a lot of students in the area attending Queen Mary's, and the locals are either asian (mostly bangladeshi I think) or proper cockneys :0)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="18" to="27"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="180">
+		<text>I was looking at LOCATION1, since they have a lot of cheap places there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="17" to="26"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="26">
+		<text>I wasn't very impressed with LOCATION1, the main street looked dirty</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="676">
+		<text>I would recommend you carefully consider LOCATION2 and LOCATION1 when you make your choice, as these are known to be peaceful and well maintained boroughs</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="41" to="50"/>
+			<aspectTerm term="LOCATION2" category="quiet" polarity="positive" from="41" to="50"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="55" to="64"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="55" to="64"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="59">
+		<text>I would say LOCATION1, probably not the nicest area in terms of beauty but it is relatively easy to get about from there, not too far away from central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="12" to="21"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="523">
+		<text>I would say that you'd be safer on the opposite side of  LOCATION2 - an area like LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="82" to="91"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="747">
+		<text>I would stay away from LOCATION2 or LOCATION1 just because I have heard of people being bothered quite a bit there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="23" to="32"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="23" to="32"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="36" to="45"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="36" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="253">
+		<text>I would suggest going to LOCATION1 on Sunday for breakfast/lunch around 12ish</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="25" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="86">
+		<text>I wouldn't advise you walking alone late at night in the LOCATION1 area   there's quite a lot of prostitutes in that area in the evening and you don't want to get accosted</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="57" to="66"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="241">
+		<text>I wouldn't even visit never mind live in LOCATION1 personally speaking</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="41" to="50"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="41" to="50"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="160">
+		<text>I wouldn't live in the centre of LOCATION1 itself as it is really busy and noisy</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="negative" from="33" to="42"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="33" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="576">
+		<text>I'd go to LOCATION1 - its an up and coming area, has some great bars / restaurants, and excellent food markets</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="585">
+		<text>I'd prefer somewhere like LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="589">
+		<text>I'll go with LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="13" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="53">
+		<text>I've been too all of those places and my favorite is LOCATION1 it's really lovely</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="53" to="62"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="447">
+		<text>I've lived in LOCATION1 all my life and haven't been stabbed once</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="217">
+		<text>I've lived in LOCATION1 for 34 years and never had any problem</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="574">
+		<text>I've lived in LOCATION1 my whole life and frankly I hate it</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="14" to="23"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="8">
+		<text>IO have a friend in LOCATION1 but she says it's a pain in the ar travelling to central every day for work</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="223">
+		<text>Id live in LOCATION1  and has transport links via national rail</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="316">
+		<text>Id suggest LOCATION1 is an area on the up , the main high street seem to be thriving these days so you might find good value</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="11" to="20"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="666">
+		<text>Ideally in LOCATION2 / LOCATION1, although rest of London is cool</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="23" to="32"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="641">
+		<text>If London is a must then avoid the area around LOCATION1 and LOCATION2 in the South-East</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="61" to="70"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="47" to="56"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="248">
+		<text>If London, a good place is LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="27" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="677">
+		<text>If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="57" to="66"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="44" to="53"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="57" to="66"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="57" to="66"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="44" to="53"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="44" to="53"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="373">
+		<text>If money was no object - LOCATION1 in LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="25" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="246">
+		<text>If you are in LOCATION1 head to 'La Pietra' one of the better Italian restaurants in the area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="658">
+		<text>If you are really scared of crime statistics, choose LOCATION1 or even LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="71" to="80"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="53" to="62"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="717">
+		<text>If you have a reasonable budget go for LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="39" to="48"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="52" to="61"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="39" to="48"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="52" to="61"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="741">
+		<text>If you lived in LOCATION1 or LOCATION2, expect to get your head kicked in a fair few times</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="16" to="25"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="699">
+		<text>If you want a decent place to bring up kids or have a decent standart of living try LOCATION1 or LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="97" to="106"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="84" to="93"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="702">
+		<text>If you want to live in Essex stick to areas like LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="62" to="71"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="49" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="561">
+		<text>If you're into shopping head to LOCATION1 </text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="32" to="41"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="720">
+		<text>If your a quiet person who enjoys their space and likes to reflect on the world then a quiet suburban area near London like LOCATION1, or LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="quiet" polarity="positive" from="138" to="147"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="124" to="133"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="273">
+		<text>If your looking for somewhere in particular though LOCATION1 is a good place , and like all places it has a range of expensive and not so expensive areas : )</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="51" to="60"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="489">
+		<text>If your looking to be within the Greater London area, maybe try looking at LOCATION1, which is  just slightly less expensive</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="75" to="84"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="75" to="84"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="173">
+		<text>In LOCATION1, there's the Geffrye Museum which has regular children's special days, and the Museum of Childhood which is all about children</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="3" to="12"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="358">
+		<text>In general LOCATION1 is a good place to go as there are so many different shops and stalls to go to and it's mostly affordable</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="11" to="20"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="721">
+		<text>In my opinion LOCATION2 isn't too far out but LOCATION1 can be quite a treck</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="46" to="55"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="710">
+		<text>In other words the best place to live in London is LOCATION1 and LOCATION2 all the other places are dumps</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="65" to="74"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="51" to="60"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="191">
+		<text>Is it ok to live near LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="432">
+		<text>It is really easy to travel via subway in London especially being located near LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="79" to="88"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="448">
+		<text>It's close to LOCATION1 park which is a major sports  site and the park itself is great with a number of attractions including the famous victorian dinosaurs</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="14" to="23"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="18">
+		<text>It's cool working in LOCATION1 as I like being on the victoria line</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="21" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="531">
+		<text>Just a couple of ideas  LOCATION1 is much better than it used to be and is very central</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="24" to="33"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="24" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="567">
+		<text>Just think of Little Somalia and its there, right in LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="53" to="62"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="469">
+		<text>LOCATION1  It's pricey but at night it's beautiful</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="104">
+		<text>LOCATION1  has improved in recent years with the opening of the international rail terminal at St Pancras</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="211">
+		<text>LOCATION1  have a big Bangladeshi population</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="383">
+		<text>LOCATION1  is fine and I never had any trouble</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="166">
+		<text>LOCATION1  they actually have deer running about in the park</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="275">
+		<text>LOCATION1 , on the other hand , is dodgy</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="188">
+		<text>LOCATION1 , south London is also home to a sizeable Brazilian community that lives alongside the UK 's single largest Portuguese community in ` Little Portugal '</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="618">
+		<text>LOCATION1 - Central, fairly affordable</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="22">
+		<text>LOCATION1 - Exciting neighbourhood, full of culture</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="162">
+		<text>LOCATION1 - Good shopping area, loads of offices, very modern, skyscrapers etc  Very different from the rest of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="435">
+		<text>LOCATION1 Est  again not somewhere I'd chose to live, but again, mainly council housing so its unlikely it would come up</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="134">
+		<text>LOCATION1 I think is a bit of a dead area , not much there and transport is awkward</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="196">
+		<text>LOCATION1 I think is generally safer</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="204">
+		<text>LOCATION1 London Farm has a wide range of livestock, poultry, and horses, and offers pony rides on Saturday and Sunday, 1.30pm-2.30pm (for 1)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="645">
+		<text>LOCATION1 N1 , N7 and N5 is also nice and LOCATION2 NW1 is also nice , both a bit more upscale than Stokey</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="42" to="51"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="452">
+		<text>LOCATION1 SW12 is ideal for a young 20-30 ish couple</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="181">
+		<text>LOCATION1 Village  is not Central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="151">
+		<text>LOCATION1 a large park in central London; there is no admission charge</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="10">
+		<text>LOCATION1 aint cheap you muppet, that's prime location</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="643">
+		<text>LOCATION1 and LOCATION2 are handiest for transport though</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="707">
+		<text>LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="green-nature" polarity="positive" from="14" to="23"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="14" to="23"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="14" to="23"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="724">
+		<text>LOCATION1 and LOCATION2 are the most dangerous</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="652">
+		<text>LOCATION1 and LOCATION2 are the most dangerous areas in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="718">
+		<text>LOCATION1 and LOCATION2 no go areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="14" to="23"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="354">
+		<text>LOCATION1 and surrounding areas have plenty of restaurants , bars as well as its quiet side</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="409">
+		<text>LOCATION1 but its not cheap</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="415">
+		<text>LOCATION1 certainly isn't known for high crime levels  No at all</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="94">
+		<text>LOCATION1 for Indian food</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="154">
+		<text>LOCATION1 from what I see is quite posh</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="133">
+		<text>LOCATION1 has a cinema and a lot of different places to eat</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="601">
+		<text>LOCATION1 has a really cool market which attracts goths</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="496">
+		<text>LOCATION1 has a reputation as an affluent and fashionable area, known for attractive terraces of large Victorian townhouses, and high-class shopping and restaurants</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="45">
+		<text>LOCATION1 has a vibrant Indian community Maximum indians are living there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="64">
+		<text>LOCATION1 has an amazing nightlife , it 's a really beautiful and vibrant part of the London and there 's always loads going on</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1">
+		<text>LOCATION1 has some trendy bars and a few restaurant mainly limited to hoxton Square</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="29">
+		<text>LOCATION1 has the nicest areas , pricey though</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="450">
+		<text>LOCATION1 has very good buses , is in walking distance of LOCATION1 or Elephant tube and has trains from Denmark Hill station</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="125">
+		<text>LOCATION1 i kno it is just outside London but is nice </text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="504">
+		<text>LOCATION1 if you can afford is great</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="225">
+		<text>LOCATION1 in LOCATION2 is a nice area , and pretty cheap</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="308">
+		<text>LOCATION1 in SW London is a nice part of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="157">
+		<text>LOCATION1 in the North, not too far from LOCATION2, has good schools and is a really nice pocket of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="597">
+		<text>LOCATION1 is Great too</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="494">
+		<text>LOCATION1 is OK but where are you coming from</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="296">
+		<text>LOCATION1 is a 30 minute train ride from LOCATION1 Station in central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="743">
+		<text>LOCATION1 is a better area after LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="33" to="42"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="740">
+		<text>LOCATION1 is a bit of a dump, LOCATION2 is slightly nicer</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="30" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="213">
+		<text>LOCATION1 is a brilliant place to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="256">
+		<text>LOCATION1 is a clean area with park and shops along the whole chiswick High Road</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="377">
+		<text>LOCATION1 is a commuter town for people working in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="218">
+		<text>LOCATION1 is a decent area and easy to get to work on the train</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="244">
+		<text>LOCATION1 is a good area for a newcomer</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="282">
+		<text>LOCATION1 is a good area of London to live in</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="505">
+		<text>LOCATION1 is a good place</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="38">
+		<text>LOCATION1 is a good place to start out in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="568">
+		<text>LOCATION1 is a great area with heaps of pubs , restaurants and young people everywhere</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="113">
+		<text>LOCATION1 is a great place to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="628">
+		<text>LOCATION1 is a high class quiet residential area BUT there are also two penal establishments in the area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="70">
+		<text>LOCATION1 is a lovely part of London and I 'd definitely want to live there given an opportunity</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="451">
+		<text>LOCATION1 is a major transport centre for trains , buses and Tube lines</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="158">
+		<text>LOCATION1 is a museum to some of the best curry London has to offer</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="319">
+		<text>LOCATION1 is a nice place</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="250">
+		<text>LOCATION1 is a nice place to live near Roundwood Park , it is located in North West of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="467">
+		<text>LOCATION1 is a very nice area with restaurants and bars, and only about 15 minutes on the tube (Jubilee Line) from the centre of town</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="51">
+		<text>LOCATION1 is a very popular place for Australians and South Africans so you 'd probably find a lively community you 'd fit in with there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="14">
+		<text>LOCATION1 is about the safest area in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="83">
+		<text>LOCATION1 is also a good area to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="477">
+		<text>LOCATION1 is also a good choice and has much more going on than the other two places</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="620">
+		<text>LOCATION1 is also a good location</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="571">
+		<text>LOCATION1 is also a great place , but incredibly pricey Depends what your budget is like</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="622">
+		<text>LOCATION1 is also not bad</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="310">
+		<text>LOCATION1 is also quite hip but is still a bit edgy</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="705">
+		<text>LOCATION1 is also very popular, as is LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="38" to="47"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="65">
+		<text>LOCATION1 is amazing</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="19">
+		<text>LOCATION1 is an amazing place to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="136">
+		<text>LOCATION1 is an area with lots of places to eat , has a market through the week</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="243">
+		<text>LOCATION1 is beautiful and has so much for kids there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="715">
+		<text>LOCATION1 is best  LOCATION2 are extremely unpleasant</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="19" to="28"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="185">
+		<text>LOCATION1 is cheaper to live in than LOCATION2 by the way</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="607">
+		<text>LOCATION1 is cheapest place to stay near to London with rates upto 600pounds for descent space</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="605">
+		<text>LOCATION1 is excellent for transport ( trains , buses , and another tube station , this one with more lines )</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="67">
+		<text>LOCATION1 is fine but it can be very noisy depending where you live and the trains and buses are always crowded during morning and evening commutes</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="438">
+		<text>LOCATION1 is full of everything including markets and street entertainers and musicians - it  is really entertaining and good fun</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="182">
+		<text>LOCATION1 is generally cheaper than LOCATION1 because of the lack of tube stations so you might want to start there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="12">
+		<text>LOCATION1 is good</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="212">
+		<text>LOCATION1 is good if you like to have good transport but still feel like a little town on its own</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="476">
+		<text>LOCATION1 is great , as it 's very posh</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="374">
+		<text>LOCATION1 is great Tube/overground/THE COMMONS London is a very strange place to live as alot of the rougher areas close to town are expensive and the nice parts are cheaper because there out of town</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="16">
+		<text>LOCATION1 is great and best for transport, having tube and overground</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="733">
+		<text>LOCATION1 is great; not so much the other parts of LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="51" to="60"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="370">
+		<text>LOCATION1 is lovely and not at all like LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="28">
+		<text>LOCATION1 is more residential ; mostly streets of houses and it will take longer to get in to the London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="207">
+		<text>LOCATION1 is much better</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="2">
+		<text>LOCATION1 is much more lively, good shops, more multicultural but borders on some rough areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="556">
+		<text>LOCATION1 is n't safe , I used to live there and it is a disgusting , rough area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="594">
+		<text>LOCATION1 is n't very friendly either</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="145">
+		<text>LOCATION1 is near LOCATION1 but it is quite a posh place</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="178">
+		<text>LOCATION1 is nice</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="107">
+		<text>LOCATION1 is nice  I live around the LOCATION1/richmond area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="414">
+		<text>LOCATION1 is nice , plenty of green spaces and several train stations I will be relocating to London for work in one month</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="434">
+		<text>LOCATION1 is nice , the green belt is just 5 minutes away , its all fields there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="575">
+		<text>LOCATION1 is nice, but NOT cheap, and for my taste, too far out</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="35">
+		<text>LOCATION1 is not the best place to be, esp for u young girls at night to be honest, and not much in the way of shopping either</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="93">
+		<text>LOCATION1 is ok</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="72">
+		<text>LOCATION1 is ok to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="88">
+		<text>LOCATION1 is okay , houses are n't too expensive there London is not a safe London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="247">
+		<text>LOCATION1 is on the Metropolitan Line of the Underground ; the trains are frequent and take 35 minutes to LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="378">
+		<text>LOCATION1 is on the Piccadilly line and you can commute to there in 30 minutes from virtually the most northerly point on the line about 10 miles out on the outskirts of London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="619">
+		<text>LOCATION1 is one of if not the most expensive areas in London, so if you're looking for reasonably pricing I'd avoid it</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="269">
+		<text>LOCATION1 is one of the best boroughs in London   there are 2 tube lines and numerous overhead train stations around</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="165">
+		<text>LOCATION1 is one of the best places to live in South, Greater London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="352">
+		<text>LOCATION1 is one of the nicest London Boroughs</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="183">
+		<text>LOCATION1 is pretty expensive , as are swathes of the rest of the borough</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="278">
+		<text>LOCATION1 is probably better although you may get noise from the Airport</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="66">
+		<text>LOCATION1 is probably safer than other areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="385">
+		<text>LOCATION1 is quite a long way out of London , but its very green</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="30">
+		<text>LOCATION1 is quite a low rent area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="82">
+		<text>LOCATION1 is quite a nice area , it has a few universities in/around it and is also well know for being a place where young families live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="257">
+		<text>LOCATION1 is really close to central London ( easy walk ) but very expensive rent</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="625">
+		<text>LOCATION1 is really nice , lovely park and market</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="522">
+		<text>LOCATION1 is right on the THames , we have a inner London farm , and several marines</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="306">
+		<text>LOCATION1 is safe , in general ,  there is a high pick pocket rate , but keep your wits about you and do n't carry things in exposed pockets</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="478">
+		<text>LOCATION1 is slightly more up market, it's an extremely vibrant area of London, and mainly consists of young and middle aged professionals</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="562">
+		<text>LOCATION1 is slightly more upmarket , with good train/tube connections to London There 's nothing wrong with any of those areas but there is probably some truth in what you 've heard</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="48">
+		<text>LOCATION1 is the address of choice for those with enough money to be able to choose anywhere they like</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="329">
+		<text>LOCATION1 is the best area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="189">
+		<text>LOCATION1 is the best place to live in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="344">
+		<text>LOCATION1 is the nicest suburb, but a little farther out</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="654">
+		<text>LOCATION1 is the worst part of London  LOCATION2 is safer</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="172">
+		<text>LOCATION1 is up and coming and then you have LOCATION1 right next to you</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="536">
+		<text>LOCATION1 is up and coming for young families</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="528">
+		<text>LOCATION1 is very attractive and is a short frequent suburban rail commute into central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="294">
+		<text>LOCATION1 is very cosmopolitan and good for DJ bars and Live Music Venues</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="216">
+		<text>LOCATION1 is very downmarket</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="74">
+		<text>LOCATION1 is very expensive to live and renting a flat there would cost you approx</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="111">
+		<text>LOCATION1 is very far from Central London and no buses except from nights go to Central London straight</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="227">
+		<text>LOCATION1 is very middle class with people with lots of money</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="512">
+		<text>LOCATION1 is very nice, it is full of green space and one of the most picturesque parks in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="39">
+		<text>LOCATION1 is well connected on the Jubilee (zone 2) line being one of the newest lines and takes you to LOCATION2 or Bond Street in no time at all</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="393">
+		<text>LOCATION1 is well connected with three tube stations and is generally a plesant place to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="473">
+		<text>LOCATION1 is well worth a visit too - just hop on the DLR and it takes you straight there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="363">
+		<text>LOCATION1 isn't to bad either</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="297">
+		<text>LOCATION1 itself is a lovely area to live , my nans lived there for 30 years and I spend much of my child their</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="120">
+		<text>LOCATION1 may be an excellent option , there 're relatively inexpensive areas there , and you can travel to richmond by bike $ 450 a week roughly equates to 1000 over here ( there 's not much point in you asking us in dollars seeing as that is n't the currency we use over here )</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="80">
+		<text>LOCATION1 might sometimes have a bad reputation but actually much of it is quite nice depends very much which part of LOCATION1 you 're talking about</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="43">
+		<text>LOCATION1 near LOCATION1 would be ideal because there are direct trains to Gatwick from there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="239">
+		<text>LOCATION1 offers many authentic indian restaurants such as dosa n chutney and chennai dosa</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="729">
+		<text>LOCATION1 or LOCATION2 , both have lots of restaurants and pubs</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="nightlife" polarity="positive" from="13" to="22"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="dining" polarity="positive" from="13" to="22"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="691">
+		<text>LOCATION1 or LOCATION2 are no where near Central Ondon, and you'll spend all your time on trains</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="negative" from="13" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="708">
+		<text>LOCATION1 or LOCATION2 if you can afford either of these areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="13" to="22"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="13" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="236">
+		<text>LOCATION1 runs on the victoria line</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="159">
+		<text>LOCATION1 seems to be full of teenagers these days and it can get quite touristy and dirty</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="519">
+		<text>LOCATION1 used to be utterly dreadful</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="417">
+		<text>LOCATION1 was probaly the first Irish community in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="525">
+		<text>LOCATION1 which is not far from LOCATION1 would be a better community to live in </text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="468">
+		<text>LOCATION1 would be a good choice</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="428">
+		<text>LOCATION1 would be good</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="287">
+		<text>LOCATION1's bloody horrible,  AND, I daresay, probably, bleedin' expensive an' all</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="391">
+		<text>LOCATION1's still quite central and has good bus and tube connections (and it's easy to get to LOCATION2 from there)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="698">
+		<text>LOCATION1, LOCATION2  and surrounding areas are good</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="11" to="20"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="697">
+		<text>LOCATION1, LOCATION2 its kind of scary people get mugged very often</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="668">
+		<text>LOCATION1, London's most beautiful open space   LOCATION2, is mainly a Jewish area,</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="multicultural" polarity="positive" from="48" to="57"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="298">
+		<text>LOCATION1, Middx - just slightly North, and a lovely place</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="616">
+		<text>LOCATION1, a quieter area, although it will have local shops, restaurants etc  Not far from LOCATION2 and the River</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="375">
+		<text>LOCATION1, it is a great place to go out for the day to shop or see a film, and has great nightlife as well</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="266">
+		<text>LOCATION1, posh and down to earth at the same time</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="245">
+		<text>LOCATION1, where I live, is quite at the hub nowadays</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="472">
+		<text>LOCATION1, which has a lovely almost country village feel, and has a really cool bar called Zerodegrees which brews its own beer on site</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="719">
+		<text>LOCATION1/LOCATION2 road is a good area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="210">
+		<text>LOCATION1: Right, so yeah, it has its crime</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="634">
+		<text>LOCATION2 (Location - South East) - Expensive apartment LOCATION1 (Location- Central ) - For the rich and famous, expensive and central</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="56" to="65"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="56" to="65"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="695">
+		<text>LOCATION2 / LOCATION1  are good places if you need to be more central - again similar price tag</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="12" to="21"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="660">
+		<text>LOCATION2 and LOCATION1 are considered the 'nice' area's of London to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="689">
+		<text>LOCATION2 and LOCATION1 are easily accessible from many areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="703">
+		<text>LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="14" to="23"/>
+			<aspectTerm term="LOCATION2" category="green-nature" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="14" to="23"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="14" to="23"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="687">
+		<text>LOCATION2 and LOCATION1 are nice places</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="14" to="23"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="635">
+		<text>LOCATION2 and LOCATION1 areas are good alternatives as well</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="742">
+		<text>LOCATION2 and the LOCATION1 are cool, and I am going to stick my neck out here and say that the rest of London is basically boring</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="18" to="27"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="644">
+		<text>LOCATION2 is OK but LOCATION1 is also a much better place to shop which a large shopping centre called the Bentall centre</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="46">
+		<text>LOCATION2 is a 30 minute train ride from LOCATION1 Station in central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="41" to="50"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="723">
+		<text>LOCATION2 is a good area as well as LOCATION1 but this area has some crime</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="36" to="45"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="36" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="727">
+		<text>LOCATION2 is excellent for restaurants by LOCATION1 I think is tad cheaper</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="42" to="51"/>
+			<aspectTerm term="LOCATION2" category="dining" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="673">
+		<text>LOCATION2 is not a nice area , as is most of LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="0" to="9"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="45" to="54"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="636">
+		<text>LOCATION2 is not too bad LOCATION1  is very upmarket and many artists live there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="25" to="34"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="685">
+		<text>LOCATION2 is reasonably safe and LOCATION1 is ok</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="33" to="42"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="692">
+		<text>LOCATION2 is worse and LOCATION1 is even worse than that</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="23" to="32"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="731">
+		<text>LOCATION2 or LOCATION1 are the best places</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="13" to="22"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="728">
+		<text>LOCATION2, LOCATION1 are bad news too</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="11" to="20"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="0" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="716">
+		<text>Let's face it I can't afford LOCATION1 or LOCATION2 ha</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="42" to="51"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="5">
+		<text>Live in LOCATION1  LOCATION1  Mostly young people, nice area can be expensive though</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="8" to="17"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="8" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="108">
+		<text>London is expensive, LOCATION1 especially so</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="21" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="199">
+		<text>Look for a place to live in LOCATION1 aswell</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="28" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="392">
+		<text>Look on Hostel sites  I like LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="396">
+		<text>Make ure you take a visit to LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="480">
+		<text>Many of the key tourist attractions, the residence of the Queen (Head of State) are all in a district-level municipality called the LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="132" to="141"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="205">
+		<text>Many parts of LOCATION1, particularly in the north, have been well known as hotspots for drug dealing</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="174">
+		<text>Most are very expensive to rent or buy even the grotty little flats and bedsits in LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="83" to="92"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="149">
+		<text>Most of London is still pretty expensive my sister lives in LOCATION1 and it is cheaper</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="60" to="69"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="397">
+		<text>My friend was saying LOCATION1 is good , but the commute to Central London is very painful</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="21" to="30"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="21" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="61">
+		<text>My hometown is LOCATION1, in SW London literally a walk into LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="577">
+		<text>NW of LOCATION1 is LOCATION1, and that's pretty nice</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="6" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="656">
+		<text>Near pretty rough neighbourhoods like LOCATION1 and LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="52" to="61"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="38" to="47"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="578">
+		<text>Near to LOCATION1 are nicer areas within the London boroughs of Bexley and bromley</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="8" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="627">
+		<text>Nearby is LOCATION1 which has Hampstead Heath, a HUGE park and tons of playgrounds for kids</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="675">
+		<text>Nearer to London is LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="33" to="42"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="150">
+		<text>Of the 3 areas you mentioned, LOCATION1 is the safest </text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="30" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="231">
+		<text>Old LOCATION1 around the outlet to the tunnel is pretty grotty</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="4" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="122">
+		<text>On the other hand i personally live in LOCATION1 , very nice area, and i personally feel that it's allot better than LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="454">
+		<text>One nice thing is that the Tube goes to LOCATION1 so you can easily get in to central London  I was born near LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="402">
+		<text>One of the main areas where Irish people used to live is LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="57" to="66"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="142">
+		<text>One place I could easily identify is LOCATION1 which is on Jubilee line</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="37" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="141">
+		<text>Or Living in LOCATION1, crime is not high and the location is very 'cushy'</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="13" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="255">
+		<text>Or try LOCATION1 where you can get more for your money</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="7" to="16"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="632">
+		<text>Out of the two I'd prefer LOCATION1 to LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="318">
+		<text>Out of these i would say, LOCATION1 (upper)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="339">
+		<text>Outside of office hours it 's nearly deserted LOCATION1 is quite the senic area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="228">
+		<text>Parts of LOCATION1 are cheaper and nice for the money, but on the wrong side of the river</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="745">
+		<text>People are saying LOCATION2 and LOCATION1 etc, but we warned that aint all good</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="32" to="41"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="100">
+		<text>Personally , I do n't think LOCATION1 is that bad</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="28" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="401">
+		<text>Personally I prefer LOCATION1 - greener, better restaurants and shopping;  better public transport too</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="667">
+		<text>Personally I think all of LOCATION1 is too crowded to I chose to live in LOCATION2 (SE London)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="73" to="82"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="negative" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="639">
+		<text>Personally, I would go for LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="40" to="49"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="27" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="293">
+		<text>Personally, having lived there, I would say LOCATION1 was a little more 'upmarket' but watch out for the planes - a lot of houses in LOCATION1 are on the landing flightpath into heathrow which can be very irritating at around 4.30/5.00 in the morning, especially in summer</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="44" to="53"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="negative" from="44" to="53"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="320">
+		<text>Places near LOCATION1 NOT to live</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="746">
+		<text>Somebody else on here was mentioning the boroughs of LOCATION1 and LOCATION2 as being cheap, affordable and safe, and I agree with that</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="67" to="76"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="53" to="62"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="67" to="76"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="53" to="62"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="657">
+		<text>South is popular LOCATION1 down to LOCATION2 - good transport links with Brighton and the south coast at the other end</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="35" to="44"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="35" to="44"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="17" to="26"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="17" to="26"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="683">
+		<text>Stay away from LOCATION1  it's where everyone gets stabbed  WHATEVER YOU DO DON'T GO TO LOCATION2 AT NIGHT</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="15" to="24"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="88" to="97"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="552">
+		<text>Stay away from LOCATION1 and the housing estates which are the poorer run-down areas</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="426">
+		<text>Take a rivercruise to LOCATION1, nice market, bars, and GMT</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="22" to="31"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="560">
+		<text>Take the Tavistock Square bus and go to LOCATION1 - plenty cheap there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="663">
+		<text>Thanks in advance for any advice  LOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="48" to="57"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="48" to="57"/>
+			<aspectTerm term="LOCATION2" category="dining" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION2" category="green-nature" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION2" category="nightlife" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="48" to="57"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="48" to="57"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="161">
+		<text>The LOCATION1 area is a bit rough</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="4" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="440">
+		<text>The above answerer is right, the other side of LOCATION1 is much worse, but LOCATION1 Park is not amazing</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="47" to="56"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="171">
+		<text>The area around LOCATION1 is OK sort of bohemian, middle-class area with some nice houses and interesting stores and restaurants</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="16" to="25"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="16" to="25"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="386">
+		<text>The area around LOCATION1 is very nice with pubs, cafes and shops nearby Victoria Park Road is said to be the longest one way thoroughfare in London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="16" to="25"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="16" to="25"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="503">
+		<text>The area around LOCATION1 is worth a look now ( it used to be hell on earth until very recently)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="187">
+		<text>The best clubs in London are definitely in LOCATION1 (don't be put off by the fact Amy Winehouse lives there)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="43" to="52"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="693">
+		<text>The best place for gay/lesbian bars are either around Oxford Street in LOCATION1 or down in LOCATION2 in South London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="nightlife" polarity="positive" from="92" to="101"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="71" to="80"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="726">
+		<text>The best place you can live is LOCATION2 and LOCATION1 in Surrey</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="45" to="54"/>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="31" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="653">
+		<text>The best places would be LOCATION2, LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="36" to="45"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="25" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="584">
+		<text>The borough of LOCATION1 includes both the place where Tony Blair's family lives, and LOCATION1 (possibly the worst place in the world EVER)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="732">
+		<text>The dangerous places i know are: LOCATION1 LOCATION2 Full of knife crime</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="43" to="52"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="33" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="334">
+		<text>The location is great though, because you can get to virtually anywhere in London from LOCATION1 or by bus</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="87" to="96"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="52">
+		<text>The main LOCATION1 Road is safeish because it is busy</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="595">
+		<text>The main one to avoid is LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="25" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="725">
+		<text>The majority of wealthy families lived around LOCATION2 and In general the LOCATION1 was where the poorer lived</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="75" to="84"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="665">
+		<text>The more expensive places are LOCATION2 and LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="44" to="53"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="30" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="563">
+		<text>The nicer streets in LOCATION1 (SE5) aren't that expensive especially the bit near LOCATION1 station</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="21" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="209">
+		<text>The only credible one would be LOCATION1  That's the largest woodland in the London area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="31" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="457">
+		<text>The only negative thing about living in LOCATION1 that I can think of is that it is very expensive</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="284">
+		<text>The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 is very cosmopolitian and trendy with a high gay population</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="93" to="102"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="93" to="102"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="638">
+		<text>The safest boroughs across all crime categories are LOCATION2 and LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="66" to="75"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="positive" from="52" to="61"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="694">
+		<text>The towns of LOCATION2 and LOCATION1 are also both lovely towns</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="27" to="36"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="13" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="422">
+		<text>The underground and busy market places such as LOCATION1, can have its share of pick-pockets and muggers just like anywhere else has</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="47" to="56"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="550">
+		<text>The very centre of London (places like LOCATION1) are very well off and there are lower levels of crime</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="39" to="48"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="39" to="48"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="81">
+		<text>There are 27,000 Portuguese people living in LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="45" to="54"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="337">
+		<text>There are VERY nice parts in LOCATION1 too</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="529">
+		<text>There are many areas of LOCATION1 with quite large Indian populations, and you may find that you money goes further there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="24" to="33"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="24" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="200">
+		<text>There are many nice places in south and LOCATION1 in particular</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="176">
+		<text>There are some great places to live near  LOCATION1LOCATION1 but without the higher property prices</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="42" to="51"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="42" to="51"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="439">
+		<text>There are three separate lines of the underground network that go though LOCATION1 station, so it's quite well connected</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="73" to="82"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="315">
+		<text>There aren't villages in London unless you mean LOCATION1 Village which is not Central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="48" to="57"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="233">
+		<text>There is a 24 hour bus, the 176, which goes to Oxford St  There are other buses which go to LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="92" to="101"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="539">
+		<text>There is a large Ghanian community who live and work in the LOCATION1 area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="60" to="69"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="413">
+		<text>There is a thriving Irish community in and around LOCATION1, LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="50" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="327">
+		<text>There's a Leisure park in LOCATION1 nearby - it has a bowling alley, a big swimming pool, a cinema and restaurants</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="355">
+		<text>There's a lot of drug dens, prostitution and crime in LOCATION1 - so yep, great</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="54" to="63"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="280">
+		<text>There's a pub right outside LOCATION1 station called the Swan that was always a really good time -</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="28" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="730">
+		<text>Therefore probably avoid places like LOCATION1 and LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="51" to="60"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="37" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="99">
+		<text>Theres a great shop in LOCATION1  tesco, believe it or not</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="34">
+		<text>These are some of the wealthiest areas of London, and many of them, like LOCATION1, are primarily residential</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="73" to="82"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="333">
+		<text>These days, who could afford to live in LOCATION1 except the celebrities and the riches</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="659">
+		<text>They have a housing system for their schools  so I don't know if it includes pricey areas like LOCATION1 and LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="109" to="118"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="95" to="104"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="481">
+		<text>This article I read actually states that in recent years LOCATION1 has become very upscale with increasingly rising property values</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="57" to="66"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="57" to="66"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="343">
+		<text>Time out market guide~ LOCATION1 is becoming quite a good place to stay</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="647">
+		<text>Try LOCATION2 or LOCATION1 for some good curry and Indianan culture</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="17" to="26"/>
+			<aspectTerm term="LOCATION2" category="multicultural" polarity="positive" from="4" to="13"/>
+			<aspectTerm term="LOCATION1" category="multicultural" polarity="positive" from="17" to="26"/>
+			<aspectTerm term="LOCATION2" category="dining" polarity="positive" from="4" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="688">
+		<text>Try SW/SE or south but be care full you check (not LOCATION2 or LOCATION1)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="64" to="73"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="51" to="60"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="680">
+		<text>Try looking at LOCATION2 or LOCATION1 boroughs</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="28" to="37"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="483">
+		<text>Unlike some places that become pricey because they are trendy, LOCATION1 is understated cool</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="63" to="72"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="63" to="72"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="203">
+		<text>We parked in a side street in LOCATION1 once; we were gone five minutes, came back and our hubcaps had been stollen</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="30" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="538">
+		<text>Well , LOCATION1 is pretty dreadful</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="260">
+		<text>Well yes, if you can afford to live in LOCATION1 then it would be great but very very expensive</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="39" to="48"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="39" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="696">
+		<text>When I lived in London I really wanted to live at LOCATION1 or LOCATION2 but couldn't find an affordable house at the time</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="63" to="72"/>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="63" to="72"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="50" to="59"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="50" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="416">
+		<text>With the LOCATION1 where Big Ben, Oxford Street and Buckingham Palace are all located being the most dangerous</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="9" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="678">
+		<text>You can also walk to LOCATION1 or LOCATION2 which both have cool bars and restaurants</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="21" to="30"/>
+			<aspectTerm term="LOCATION2" category="dining" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION2" category="nightlife" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="21" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="156">
+		<text>You could also look at LOCATION1 in Surrey which is about 20 minutes to LOCATION2 </text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="23" to="32"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="186">
+		<text>You could also try LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="548">
+		<text>You could live in the LOCATION1 area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="22" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="611">
+		<text>You could look further out at Robertsbridge  LOCATION1 near the station Its in West London , decent shopping, good transport links, loads of parks for your kids</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="45" to="54"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="45" to="54"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="45" to="54"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="711">
+		<text>You could take in the above suggestions of LOCATION1 or LOCATION2 if you are a millionaire</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="43" to="52"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="56" to="65"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="649">
+		<text>You could try LOCATION1 but keep away from the LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="47" to="56"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="14" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="661">
+		<text>You might also like to give places like LOCATION1 and LOCATION2 a try, especially along their river fronts</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="green-nature" polarity="positive" from="54" to="63"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="54" to="63"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="40" to="49"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="40" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="737">
+		<text>You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and  ,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="49" to="58"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="49" to="58"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="27" to="36"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="27" to="36"/>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="49" to="58"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="27" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="547">
+		<text>You should move to LOCATION1 - it's clean, friendly, not as expensive as Central London and has the correct balance between suburbian and London life</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="19" to="28"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="714">
+		<text>You'll love LOCATION2 and LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="26" to="35"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="169">
+		<text>Your other options is to go north - LOCATION1, say</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="36" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="362">
+		<text>Your rent goes further in LOCATION1 than many parts of the centre, west and north</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="353">
+		<text>another place to go is LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="674">
+		<text>as for LOCATION2 and LOCATION1  i normally avoid it  full of tourists and over priced</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="touristy" polarity="positive" from="21" to="30"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="21" to="30"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="7" to="16"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="7" to="16"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="21" to="30"/>
+			<aspectTerm term="LOCATION2" category="touristy" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="682">
+		<text>avoid LOCATION2 and LOCATION1 , the rest is ok to good</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="20" to="29"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="negative" from="6" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="399">
+		<text>check it out LOCATION1's not a bad place either</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="13" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="722">
+		<text>districts including LOCATION2 and LOCATION1 are also in relatively the same position, problems but they are cheaper</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="34" to="43"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="34" to="43"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="92">
+		<text>having lived in the LOCATION1 for a while  I have found that it can be a lovely area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="20" to="29"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="614">
+		<text>head to LOCATION1 if historical buildings and antique markets are more your cup of tea</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="8" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="706">
+		<text>i have lived in London my whole life and have lived all over  (LOCATION1 LOCATION2) are definitely my favourites</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="73" to="82"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="63" to="72"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="238">
+		<text>i live by LOCATION1,safe as houses and great pubs/restaurants along the river you'll love it there :)</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="dining" polarity="positive" from="10" to="19"/>
+			<aspectTerm term="LOCATION1" category="nightlife" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="545">
+		<text>i live in LOCATION1 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="25">
+		<text>i live in LOCATION1, and walk into central London (3 miles) all the time</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="193">
+		<text>i lived in LOCATION1 for a time during my stay there so nice</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="11" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="664">
+		<text>if I had enough money, I would definitely live in LOCATION2 or LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="price" polarity="negative" from="50" to="59"/>
+			<aspectTerm term="LOCATION1" category="live" polarity="positive" from="63" to="72"/>
+			<aspectTerm term="LOCATION2" category="live" polarity="positive" from="50" to="59"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="63" to="72"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="4">
+		<text>if you can afford it , LOCATION1 is a lovely area</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="23" to="32"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="115">
+		<text>if you fancy going North try LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="29" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="252">
+		<text>if you want to  shop I would recommend Westfield which is located in LOCATION1, West London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="69" to="78"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="501">
+		<text>im not looking to move solely based on the commute everyday as I wont be going into London daily , just if I ever wanted to go out in London I know I can jump on a train quite easily LOCATION1 is just outside London which is only 20 minutes away by frequent fast train</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="183" to="192"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="101">
+		<text>in London outskirts ( south of London ) there are 2 nice area's more affordable than LOCATION2 like LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="100" to="109"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="100" to="109"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="380">
+		<text>its so close to LOCATION2 there would be loads of bankers staying on the LOCATION1 which would push rent up high</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="73" to="82"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="291">
+		<text>just don't live in LOCATION1  </text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="738">
+		<text>lots of lovely scenery in LOCATION1 and LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="green-nature" polarity="positive" from="40" to="49"/>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="26" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="15">
+		<text>maybe LOCATION1 which is the first stop of the central line and u have the forest to explore</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="green-nature" polarity="positive" from="6" to="15"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="6" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="290">
+		<text>most places in LOCATION1 is messed up</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="651">
+		<text>my other favorites are LOCATION1 and LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="37" to="46"/>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="23" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="360">
+		<text>no need to live in LOCATION1 which is generally less accessible</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="19" to="28"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="negative" from="19" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="453">
+		<text>opinion - LOCATION1 is a hole to live in</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="live" polarity="negative" from="10" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="264">
+		<text>personally my favourite area is LOCATION1 but you need to be rich to live there</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="32" to="41"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="32" to="41"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="367">
+		<text>quiet suburban areas with good transport links like LOCATION1 are highly sought after and therefore expensive</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="52" to="61"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="52" to="61"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="52" to="61"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="negative" from="52" to="61"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="42">
+		<text>some of those streets above LOCATION1 are quite nice but maybe be careful how late at night you walk down from the tube, LOCATION1 tube at night can be particlarly nasty</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="28" to="37"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="28" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="114">
+		<text>t  Try LOCATION1 NW10. It will fit in your budget</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="7" to="16"/>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="7" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="431">
+		<text>the borough of LOCATION1 is  quite quiet and boring</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="negative" from="15" to="24"/>
+			<aspectTerm term="LOCATION1" category="quiet" polarity="positive" from="15" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="583">
+		<text>the ones around LOCATION1 are more expensive, generally further out from there cheaper, as long as on tube</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="16" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="736">
+		<text>there aren't many nice places in south east, mayb LOCATION2 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="64" to="73"/>
+			<aspectTerm term="LOCATION2" category="general" polarity="positive" from="50" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="672">
+		<text>there is good shopping in nearby LOCATION1 and LOCATION2</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="shopping" polarity="positive" from="47" to="56"/>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="33" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="637">
+		<text>they are boroughs and I would imagine LOCATION2 or LOCATION1 would be the cheapest boroughs however they are also the roughest</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="price" polarity="positive" from="51" to="60"/>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="51" to="60"/>
+			<aspectTerm term="LOCATION2" category="price" polarity="positive" from="38" to="47"/>
+			<aspectTerm term="LOCATION2" category="safety" polarity="negative" from="38" to="47"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="194">
+		<text>try areas such as LOCATION1 that have a trendy feel and are popular with young professionals</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="18" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="106">
+		<text>two french students were brutally murdered in LOCATION1 on Sunday</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="negative" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="365">
+		<text>we lived in LOCATION1 and liked how close it was to shops</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="shopping" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="123">
+		<text>whatever happens in LOCATION1 is non-violent and relativly unislamic</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="safety" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="712">
+		<text>you can live out as far as LOCATION1/LOCATION2 which is on the edge of Greater London  and it only takes you about 20mins by train to commute right into Central London</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION2" category="transit-location" polarity="positive" from="37" to="46"/>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="27" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="507">
+		<text>you live around the LOCATION1 station, there's a National Railway route that will take you directly to LOCATION1 in about 30 minutes</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="transit-location" polarity="positive" from="20" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+	<sentence id="510">
+		<text>you'll LOVE LOCATION1</text>
+		<aspectTerms>
+			<aspectTerm term="LOCATION1" category="general" polarity="positive" from="12" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+		</aspectCategories>
+	</sentence>
+</sentences>

@@ -1,0 +1,27 @@
+train sample numbers: 21150
+train average target number/sample: 1.3714893617
+train total target number: 2363
+train average target length: 1.79475243335
+train average sample length: 18.4736170213
+train negative,neutral,positive number: 2421,20331,6255; rate: 0.0834626124729,0.700899782811,0.215637604716
+train top 10 aspects: facebook:1197;twitter:1008;apple:333;google:315;youtube:225;un:189;obama:144;forex:126;amazon:99;reuters:99;
+train category: ORGANIZATION:16443;PERSON:12564;
+----------------------------------------
+test sample numbers: 2350
+test average target number/sample: 1.3714893617
+test total target number: 2363
+test average target length: 1.79475243335
+test average sample length: 18.4736170213
+test negative,neutral,positive number: 269,2259,695; rate: 0.0834626124729,0.700899782811,0.215637604716
+test top 10 aspects: facebook:133;twitter:112;apple:37;google:35;youtube:25;un:21;obama:16;forex:14;reuters:11;amazon:11;
+test category: ORGANIZATION:1827;PERSON:1396;
+----------------------------------------
+train+test sample numbers: 23500
+train+test average target number/sample: 1.3714893617
+train+test total target number: 2363
+train+test average target length: 1.79475243335
+train+test average sample length: 18.4736170213
+train+test negative,neutral,positive number: 2690,22590,6950; rate: 0.0834626124729,0.700899782811,0.215637604716
+train+test top 10 aspects: facebook:1330;twitter:1120;apple:370;google:350;youtube:250;un:210;obama:160;forex:140;amazon:110;reuters:110;
+train+test category: ORGANIZATION:18270;PERSON:13960;
+----------------------------------------
