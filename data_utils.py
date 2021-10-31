@@ -4,15 +4,18 @@ import numpy as np
 from torch.utils.data import Dataset
 import sys
 import json
+import csv
+import pandas as pd
 from data_processing.clean import clean_str, process_text
 import copy
 
 base_path = sys.path[0] + "/data/"
 # print(base_path)
 sentiment_map = {
-    'positive': 2,
-    'neutral': 1,
-    'negative': 0
+    'positive': 3,
+    'neutral': 2,
+    'negative': 1, 
+    'none': 0
 }
 
 
@@ -85,7 +88,7 @@ class Tokenizer(object):
     def fit_on_text(self, text):
         if self.lower:
             text = text.lower()
-        words = text.split()
+        words = text.split()            
         for word in words:
             if word not in self.word2idx:
                 self.word2idx[word] = self.idx
@@ -136,28 +139,43 @@ class ABSADataset(Dataset):
 
 class ABSADatesetReader:
     @staticmethod
-    def __read_text__(fname, dataset):
+    def __read_text__(fname, processed, dataset):
         with open(fname, 'r') as f:
             data = json.load(f)
+        data = {sent['id']:sent for sent in data}
+        processed_data = pd.read_csv(processed, header=None, sep='\t', 
+                                     skipinitialspace=False, quoting=csv.QUOTE_NONE).values
+        
         text = ''
         aspect_text = ''
         max_sentence_len = 0.0
         max_term_len = 0.0
-        for instance in data:
-            text_instance = instance['text']
+
+        for instance in processed_data:
+            # Get text instance
+            sent_id = str(instance[0])
+            text_instance = instance[3]
             if dataset == "twitter":
                 text_instance = text_instance.encode("utf-8")
-            # print(text_instance)
-            opinion = instance['opinions']
-            aspect_terms = opinion['aspect_term']
+
+            # Get aspect terms
+            aspect_terms = []
+            if instance[1] == 'none':
+                aspect_terms = [{"polarity": "none", "term": "null", "from" : "0", "to" : "0"}]
+            else:
+                aspect_terms = data[sent_id]['opinions']['aspect_term']
+
             for a in aspect_terms:
+                # Get aspect term + polarity
                 aspect = a['term']
                 polarity = a['polarity']
                 if polarity == "conflict":
                     continue
+                
+                # Get aspect term indices
                 from_index = int(a['from'])
                 to_index = int(a['to'])
-                aspect_clean = " ".join(process_text(aspect))
+                aspect_clean = " ".join(process_text(aspect))   
                 if aspect == "null":
                     from_index = 0
                     to_index = 0
@@ -168,37 +186,55 @@ class ABSADatesetReader:
                     left = left.decode("utf-8")
                     right = right.decode("utf-8")
                     aspect_tmp = aspect_tmp.decode("utf-8")
-                if aspect != aspect_tmp and aspect != 'NULL':
-                    print(aspect, text_instance[from_index: to_index])
+                
+                # Clean text
+                if aspect != aspect_tmp and aspect != 'null':
+                    print(aspect, aspect_tmp)
                 left_clean = " ".join(process_text(left))
                 right_clean = " ".join(process_text(right))
                 text_raw = left_clean + " " + aspect_clean + " " + right_clean
+
                 if len(text_raw.split(" ")) > max_sentence_len:
                     max_sentence_len = len(text_raw.split(" "))
-                # print(aspect_clean)
+                
                 if len(aspect_clean.split(" ")) > max_term_len:
                     max_term_len = len(aspect_clean.split(" "))
+
                 text += text_raw + " "
                 aspect_text += aspect_clean + " "
+
         return text.strip(), aspect_text.strip(), max_sentence_len, max_term_len
 
     @staticmethod
-    def __read_data__(fname, tokenizer, dataset):
+    def __read_data__(fname, tokenizer, processed, dataset):
         with open(fname, 'r') as f:
-            data = json.load(f)
+            orig_data = json.load(f)
+        orig_data = {sent['id']:sent for sent in orig_data}
+        processed_data = pd.read_csv(processed, header=None, sep='\t', 
+                                     skipinitialspace=False, quoting=csv.QUOTE_NONE).values
 
         all_data = []
-        for instance in data:
-            text_instance = instance['text']
+        for instance in processed_data:    
+            # Get text instance
+            sent_id = str(instance[0])
+            text_instance = instance[3]
             if dataset == "twitter":
                 text_instance = text_instance.encode("utf-8")
-            opinion = instance['opinions']
-            aspect_terms = opinion['aspect_term']
+
+            # Get aspect terms
+            aspect_terms = []
+            if instance[1] == 'none':
+                aspect_terms = [{"polarity": "none", "term": "null", "from" : "0", "to" : "0"}]
+            else:
+                aspect_terms = orig_data[sent_id]['opinions']['aspect_term']
+
+            # Get aspect term + polarity
             for a in aspect_terms:
                 aspect = a['term']
                 polarity = a['polarity']
                 if polarity == "conflict":
                     continue
+
                 from_index = int(a['from'])
                 to_index = int(a['to'])
                 aspect = " ".join(process_text(aspect))
@@ -211,6 +247,8 @@ class ABSADatesetReader:
                 if dataset == "twitter":
                     left = left.decode("utf-8")
                     right = right.decode("utf-8")
+
+                # Clean text
                 text_left = " ".join(process_text(left))
                 text_right = " ".join(process_text(right))
                 text_raw_indices = tokenizer.text_to_sequence(text_left + " " + aspect + " " + text_right)
@@ -221,7 +259,7 @@ class ABSADatesetReader:
                 text_right_with_aspect_indices = tokenizer.text_to_sequence(" " + aspect + " " + text_right,
                                                                             reverse=True)
                 aspect_indices = tokenizer.text_to_sequence(aspect, max_seq_len=tokenizer.max_aspect_len)
-                polarity = sentiment_map[polarity]
+                polarity = sentiment_map[polarity]              
                 data = {
                     'text_raw_indices': text_raw_indices,
                     'text_raw_without_aspect_indices': text_raw_without_aspect_indices,
@@ -236,7 +274,7 @@ class ABSADatesetReader:
                 all_data.append(data)
         return all_data
 
-    def __init__(self, dataset='twitter', embed_dim=300, max_seq_len=-1):
+    def __init__(self, dataset='twitter', embed_dim=300, max_seq_len=-1, processor_name='NLI_M'):
         print("preparing {0} dataset...".format(dataset))
         fname = {
             'twitter': {
@@ -245,7 +283,11 @@ class ABSADatesetReader:
             },
             'restaurants14': {
                 'train': base_path + 'data_processed/SemEval2014/restaurants-train.json',
-                'test': base_path + 'data_processed/SemEval2014/restaurants-test.json'
+                'test': base_path + 'data_processed/SemEval2014/restaurants-test.json',
+                'NLI_M' : {
+                    'train': base_path + 'data_processed/SemEval2014/bert-pair/restaurants14/train_NLI_M.csv',
+                    'test': base_path + 'data_processed/SemEval2014/bert-pair/restaurants14/test_NLI_M.csv'
+                }
             },
             'laptop14': {
                 'train': base_path + 'data_processed/SemEval2014/laptop-train.json',
@@ -260,32 +302,35 @@ class ABSADatesetReader:
                 'test': base_path + 'data_processed/SemEval2016/restaurants-test.json'
             }
         }
+        
         text_train, aspect_text_train, max_seq_len_train, max_term_len_train = ABSADatesetReader.__read_text__(
-            fname[dataset]['train'], dataset=dataset)
+            fname[dataset]['train'], processed=fname[dataset][processor_name]['train'], dataset=dataset)
         text_test, aspect_text_test, max_seq_len_test, max_term_len_test = ABSADatesetReader.__read_text__(
-            fname[dataset]['test'], dataset=dataset)
+            fname[dataset]['test'], processed=fname[dataset][processor_name]['test'], dataset=dataset)
         text = text_train + " " + text_test
         # aspect_text = aspect_text_train + " " + aspect_text_test
         if max_seq_len < 0:
             max_seq_len = max_seq_len_train
-        tokenizer_text = Tokenizer(max_seq_len=max_seq_len, max_aspect_len=max_term_len_train)
-        tokenizer_text.fit_on_text(text.lower())
+        tokenizer_text = Tokenizer(lower=True, max_seq_len=max_seq_len, max_aspect_len=max_term_len_train)
+        tokenizer_text.fit_on_text(text)
         # tokenizer_aspect = Tokenizer(max_seq_len=max_seq_len, max_aspect_len=max_term_len_train)
         # tokenizer_aspect.fit_on_text(aspect_text.lower())
         # print tokenizer_aspect.word2idx
         self.embedding_matrix = build_embedding_matrix(tokenizer_text.word2idx, embed_dim, dataset)
-        self.aspect_embedding_matrix = copy.deepcopy(self.embedding_matrix)
+        self.aspect_embedding_matrix = copy.deepcopy(self.embedding_matrix) 
         # #build_aspect_embedding_matrix(tokenizer_text.word2idx, embed_dim, dataset)
         self.train_data = ABSADataset(
-            ABSADatesetReader.__read_data__(fname[dataset]['train'], tokenizer_text, dataset=dataset))
+            ABSADatesetReader.__read_data__(fname[dataset]['train'], tokenizer_text, 
+                                            processed=fname[dataset][processor_name]['train'], dataset=dataset))
         self.test_data = ABSADataset(
-            ABSADatesetReader.__read_data__(fname[dataset]['test'], tokenizer_text, dataset=dataset))
+            ABSADatesetReader.__read_data__(fname[dataset]['test'], tokenizer_text, 
+                                            processed=fname[dataset][processor_name]['test'], dataset=dataset))
         self.dev_data = ABSADataset([])
 
 
 if __name__ == '__main__':
-    ABSADatesetReader(dataset="twitter", embed_dim=300, max_seq_len=80)
-    ABSADatesetReader(dataset="laptop14", embed_dim=300, max_seq_len=80)
+    #ABSADatesetReader(dataset="twitter", embed_dim=300, max_seq_len=80)
+    #ABSADatesetReader(dataset="laptop14", embed_dim=300, max_seq_len=80)
     ABSADatesetReader(dataset="restaurants14", embed_dim=300, max_seq_len=80)
-    ABSADatesetReader(dataset="restaurants15", embed_dim=300, max_seq_len=80)
-    ABSADatesetReader(dataset="restaurants16", embed_dim=300, max_seq_len=80)
+    #ABSADatesetReader(dataset="restaurants15", embed_dim=300, max_seq_len=80)
+    #ABSADatesetReader(dataset="restaurants16", embed_dim=300, max_seq_len=80)

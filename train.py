@@ -42,7 +42,7 @@ base_path = sys.path[0] + '/data/store/'
 
 def clip_gradient(parameters, clip):
     """Computes a gradient clipping coefficient based on gradient norm."""
-    return nn.utils.clip_grad_norm(parameters, clip)
+    return nn.utils.clip_grad_norm_(parameters, clip)
 
 
 def tensor_to_numpy(x):
@@ -66,7 +66,8 @@ class BaseExperiment:
         for arg in vars(args):
             print('>>> {0}: {1}'.format(arg, getattr(args, arg)))
 
-        absa_dataset = ABSADatesetReader(dataset=args.dataset, embed_dim=args.embed_dim, max_seq_len=args.max_seq_len)
+        absa_dataset = ABSADatesetReader(dataset=args.dataset, embed_dim=args.embed_dim, 
+                                         max_seq_len=args.max_seq_len, processor_name=args.processor_name)
         if self.args.dev > 0.0:
             random.shuffle(absa_dataset.train_data.data)
             dev_num = int(len(absa_dataset.train_data.data) * self.args.dev)
@@ -293,6 +294,7 @@ if __name__ == '__main__':
     # Hyper Parameters
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='ContextAvg', type=str)
+    parser.add_argument('--processor_name', default='NLI_M', type=str)
     parser.add_argument('--dataset', default='twitter', type=str,
                         help='twitter, restaurants14, laptop14, restaurants15, restaurants16')
     parser.add_argument('--optimizer', default='Adam', type=str)
@@ -304,7 +306,7 @@ if __name__ == '__main__':
     parser.add_argument('--embed_dim', default=300, type=int)
     parser.add_argument('--hidden_dim', default=300, type=int)
     parser.add_argument('--max_seq_len', default=80, type=int)
-    parser.add_argument('--polarities_dim', default=3, type=int)
+    parser.add_argument('--polarities_dim', default=4, type=int)
     parser.add_argument('--kernel_num', default=100, type=int)
     parser.add_argument('--kernel_sizes', default=[3, 4, 5], nargs='+', type=int)
     parser.add_argument('--hops', default=3, type=int)
