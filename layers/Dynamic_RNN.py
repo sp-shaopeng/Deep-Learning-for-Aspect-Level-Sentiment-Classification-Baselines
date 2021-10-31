@@ -54,6 +54,8 @@ class DynamicRNN(nn.Module):
         :return:
         """
         """sort"""
+        if not 'numpy' in str(type(x_len)):
+            x_len = x_len.cpu().numpy()
         x_sort_idx = np.argsort(-x_len)
         x_unsort_idx = torch.LongTensor(np.argsort(x_sort_idx))
         x_len = x_len[x_sort_idx]

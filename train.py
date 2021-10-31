@@ -255,6 +255,8 @@ class BaseExperiment:
                                                                                             self.args.dev)
                         torch.save(self.mdl.state_dict(), PATH)
                         best_result = result
+            if 'torch.Tensor' in str(type(losses[0])):
+                losses = [x.cpu().numpy() for x in losses]
             print("[Epoch {}] Train Loss={} Test Acc={} T={}s".format(epoch, np.mean(losses), result['acc'], t1 - t0))
         return best_result
 
